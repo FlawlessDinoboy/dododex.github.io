@@ -820,4 +820,10 @@
 "e":"admincheat EnableSpectator",
 "t":"Misc",
 "d":"Enables spectator mode (destroys inventory)."
+},{
+"id":"RefillStats",
+"c":"RefillStats",
+"e":"admincheat RefillStats",
+"t":"Player Status",
+"d":"Sets all stats to maximum once ,like InfiniteStats."
 }]}
